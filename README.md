@@ -11,3 +11,5 @@
 
 *All calculation is done in 3-dimensional real space.*
 *Velocity is not taken into account.*
+
+Math behind: https://imgur.com/a/3sraVo7
