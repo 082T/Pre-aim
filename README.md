@@ -13,7 +13,9 @@
 *Velocity is not taken into account.*
 
 Math behind: https://imgur.com/a/3sraVo7 <br/>
+```
     > AT = target location <br/>
     > MD = Target speed <br/> 
     > AF = your location <br/>
     > AS = your projectile speed
+```
