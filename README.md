@@ -1,9 +1,9 @@
 #### Info given:
 ```
-> target location        - (x,y,z)
-> target speed           - (x,y,z)
-> your location          - (x,y,z)
-> your projectile speed  - x
+> target location               - (x,y,z)
+> target moving direction+speed - (x,y,z)
+> your location                 - (x,y,z)
+> your projectile speed         - x
 ```    
     all variables are "double"
     
