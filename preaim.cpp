@@ -72,4 +72,5 @@ xyz pre_aim(xyz aim_from, xyz aim_to, double aim_spd, xyz move_dir)
 	res.z /= norm;
 
 	return res;
+	
 }
