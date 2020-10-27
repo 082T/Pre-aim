@@ -1,4 +1,4 @@
-##### Info given:
+#### Info given:
 ```
 > target location        - (x,y,z)
 > target speed           - (x,y,z)
@@ -7,12 +7,12 @@
 ```    
     all variables are "double"
     
-##### Outputs the vector of a direction in which the projectile must be fired.
+#### Outputs the vector of a direction in which the projectile must be fired.
 
 *All calculation is done in 3-dimensional real space.* <br/>
 *Velocity is not taken into account.*
 
-Math behind: https://imgur.com/a/3sraVo7 <br/>
+##### Math behind: https://imgur.com/a/3sraVo7 <br/>
 ```
 > AT = target location <br/>
 > MD = Target speed <br/> 
