@@ -14,8 +14,8 @@
 
 ##### Math behind: https://imgur.com/a/3sraVo7 <br/>
 ```
-> AT = target location <br/>
-> MD = Target speed <br/> 
-> AF = your location <br/>
+> AT = target location
+> MD = Target speed
+> AF = your location
 > AS = your projectile speed
 ```
