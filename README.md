@@ -9,5 +9,5 @@
     
 ##### Outputs the vector of a direction in which the projectile must be fired.
 
-*All calculation is done in 3-dimensial real space.*
+*All calculation is done in 3-dimensional real space.*
 *Velocity is not taken into account.*
