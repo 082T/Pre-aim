@@ -12,7 +12,6 @@
 *All calculation is done in 3-dimensional real space.* <br/>
 *Velocity is not taken into account.*
 
-##### Math behind: https://imgur.com/a/3sraVo7 <br/>
 ```
 > AT = target location
 > MD = Target moving direction+speed
