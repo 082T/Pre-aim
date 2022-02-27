@@ -1,8 +1,11 @@
+// Math behind: https://imgur.com/a/3sraVo7
+
 #include<iostream>
 #include "preaim.h"
 
 int main() {
 
+	
 	// call example
 
 	xyz into(0, 0, 0);
